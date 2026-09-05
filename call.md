@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Call for contributions
+cover-img: assets/img/Faraday.jpg
 ---
 We will consider contributions in the following formats.
 
