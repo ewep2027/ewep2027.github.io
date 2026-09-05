@@ -22,4 +22,6 @@ Registration will open in late March 2027.
 
 The conference fee will include three nights' accommodation at Sinatur Storebælt, Nyborg.
 
+**Submission link to follow.**
+
 Questions: email Ed at ebag@sdu.dk
