@@ -7,7 +7,7 @@ We will consider contributions in the following formats.
 
 - Regular talk: 15 minutes plus Q&A 
 - Poster
-- Symposia consisting of three or four talks
+- Symposia consisting of three or four talks on a common topic
  
 ## How to submit
 
