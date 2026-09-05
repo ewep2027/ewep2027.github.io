@@ -26,3 +26,5 @@ The conference fee will include three nights' accommodation at Sinatur Storebæl
 **Submission link to follow.**
 
 Questions: email Ed at ebag@sdu.dk
+
+Image credit: Michael Faraday's Christmas lecture at the Royal Institution, ca. 1855 [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Faraday_Michael_Christmas_lecture_detail.jpg)
