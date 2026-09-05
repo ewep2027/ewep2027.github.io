@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Practical information
+cover-img: assets/img/storebaelt-bridge.jpg
 ---
 ## How to get to Nyborg
 
@@ -14,8 +15,11 @@ title: Practical information
 
 - It is possible to take connecting trains from neighboring countries in Europe, including Germany and Sweden. There are also bus services such as Flixbus that stop at Odense's train station. Nyborg is a 15 minute train ride from Odense.
 
-## Where to stay
+## Accommodation
 
 Participants will stay at the [Sinatur Storebælt hotel in Nyborg](https://www.sinatur.dk/storebaelt/), which is also the conference venue.
+
+
+Image credit: Storebælt bridge [Wikimedia commons](https://commons.wikimedia.org/wiki/File:Great_belt_fixed_link_panorama.jpg)
 
 
