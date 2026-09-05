@@ -16,6 +16,6 @@ title: Practical information
 
 ## Where to stay
 
-Participants will stay at the Sinatur Nyborg, which is also the conference venue.
+Participants will stay at the [Sinatur Storebælt hotel in Nyborg](https://www.sinatur.dk/storebaelt/), which is also the conference venue.
 
 
