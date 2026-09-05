@@ -1,7 +1,7 @@
 ---
 layout: home
 title: EWEP 2027 — The 17th European Workshop on Ecological Psychology
-subtitle: June 22–25, Nyborg, Denmark
+subtitle: June 22–25, 2027, Nyborg, Denmark
 cover-img: assets/img/nyborg-jetty.jpg
 ---
 
