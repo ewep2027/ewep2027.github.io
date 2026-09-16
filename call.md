@@ -21,11 +21,21 @@ Symposia: The symposium organizer should submit
 
 **[Submission form here](https://forms.gle/9K4F93Fi5q2E7R8M6)**
 
+
+## Registration
+
 Registration will open in March 2027.
 
 The conference fee will include three nights' accommodation at Sinatur Storebælt, Nyborg.
 
-**Submission link to follow.**
+
+## Information for presenters
+
+Regular talks will be 15 minutes + 5 minutes for Q&A.
+
+Posters: You should print and bring your own poster.
+
+Information on accommodation, transport, etc. can be found on the [Practical info](/info) page.
 
 Questions: email Ed at ebag@sdu.dk
 
