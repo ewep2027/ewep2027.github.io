@@ -7,7 +7,9 @@ cover-img: assets/img/nyborg-jetty.jpg
 
 The **17th European Workshop on Ecological Psychology** takes place in Nyborg, Denmark June 22-25, 2027. Hosted by the Centre for Human Interactivity at the University of Southern Denmark, the meeting brings together researchers inspired by the ecological approach to perception, action, and cognition.
 
-<span style="color:red">**The deadline for submissions is February 19, 2027.**</span>
+<span style="color:red">**The deadline for submissions is February 5, 2027.**</span>
+
+For the link to the submission form, see the [call].
 
 Registration details will follow. The registration fee will include three nights' accommodation at the Sinatur Storebælt hotel in Nyborg.
 
