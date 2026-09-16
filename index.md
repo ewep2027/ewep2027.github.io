@@ -9,17 +9,9 @@ The **17th European Workshop on Ecological Psychology** takes place in Nyborg, D
 
 <span style="color:red">**The deadline for submissions is February 5, 2027.**</span>
 
-For the link to the submission form, see the [call].
+For the link to the submission form, see the [call for contributions](/call).
 
 Registration details will follow. The registration fee will include three nights' accommodation at the Sinatur Storebælt hotel in Nyborg.
-
-## Information for presenters
-
-Regular talks will be 15 minutes + 5 minutes for Q&A.
-
-Posters: You should print and bring your own poster.
-
-Information on accommodation, transport, etc. can be found on the [Practical info](/info) page.
 
 ## Contact us
 
