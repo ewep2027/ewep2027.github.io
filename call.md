@@ -15,11 +15,13 @@ Regular talks and posters: Send an abstract, maximum 200 words.
 
 Symposia: The symposium organizer should submit
 - A short description of the symposium (maximum 200 words)
-- Abstracts and author details for all contributors (maximum 200 words per abstract)
+- Abstracts (maximum 200 words per abstract) and author details (presenter's email address and names and affiliations for all authors) for all presentations
 
-<span style="color:red">**Deadline for all submissions: Friday February 19, 2027.**</span>
+<span style="color:red">**Deadline for all submissions: Friday February 5, 2027.**</span>
 
-Registration will open in late March 2027.
+**[Submission form here](https://forms.gle/9K4F93Fi5q2E7R8M6)**
+
+Registration will open in March 2027.
 
 The conference fee will include three nights' accommodation at Sinatur Storebælt, Nyborg.
 
