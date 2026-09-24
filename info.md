@@ -7,9 +7,9 @@ cover-img: assets/img/storebaelt-bridge.jpg
 
 **Airports**
 
-- The easiest way to get to Nyborg from outside Denmark is via **Copenhagen airport**. There are regular trains from Copenhagen airport to Nyborg, which is on the route to the other main towns in Denmark. Usually the train goes to Copenhagen's main station first (note: the train leaves Copenhagen's main station in the opposite direction from the way it arrives). You can buy a ticket at the airport or download the app for the train operator, DSB. Expect the ticket to cost around 350kr (47€). Information about getting to and from Copenhagen airport can be found [here](https://www.cph.dk/en/parking-transport/bus-train-metro-taxi).
+- The easiest way to get to Nyborg from outside Denmark is generally via **Copenhagen airport**. There are regular trains from Copenhagen airport to Nyborg, which is on the route to the other main towns in Denmark. Usually the train goes to Copenhagen's main station first (note: the train leaves Copenhagen's main station in the opposite direction from the way it arrives). You can buy a ticket at the airport or download the app for the train operator, DSB. Expect the ticket to cost around 350kr (47€) one-way. Information about getting to and from Copenhagen airport can be found [here](https://www.cph.dk/en/parking-transport/bus-train-metro-taxi).
 
-- Another option is to fly to **Billund airport**. To get from Billund to Odense you will need to take a bus to Vejle train station and then take a train to Nyborg (in the direction of Copenhagen). See the airport's information page [here](https://www.bll.dk/en/parking-and-transport/to-and-from-the-airport).
+- Another option is to fly to **Billund airport**. To get from Billund to Nyborg you will need to take a bus to Vejle train station and then take a train to Nyborg (in the direction of Copenhagen). See the airport's information page [here](https://www.bll.dk/en/parking-and-transport/to-and-from-the-airport).
 
 **Public transport**
 
@@ -19,6 +19,10 @@ cover-img: assets/img/storebaelt-bridge.jpg
 
 Participants will stay at the [Sinatur Storebælt hotel in Nyborg](https://www.sinatur.dk/storebaelt/), which is also the conference venue.
 
+## Relevant links
+
+- [International Society for Ecological Psychology (ISEP)](https://ecological-psychology.com/about)
+- [North American meeting of ISEP 2027](https://sites.google.com/site/foovian/home/na-isep-2027-meeting) - taking place in New Paltz, NY, August 5-6, 2027
 
 Image credit: Storebælt bridge [Wikimedia commons](https://commons.wikimedia.org/wiki/File:Great_belt_fixed_link_panorama.jpg)
 
