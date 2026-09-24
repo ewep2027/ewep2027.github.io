@@ -23,6 +23,7 @@ Participants will stay at the [Sinatur Storebælt hotel in Nyborg](https://www.s
 
 - [International Society for Ecological Psychology (ISEP)](https://ecological-psychology.com/about)
 - [North American meeting of ISEP 2027](https://sites.google.com/site/foovian/home/na-isep-2027-meeting) - taking place in New Paltz, NY, August 5-6, 2027
+- [Dimensions of Radical Embodiment 4](https://sites.google.com/view/dre-4-bristol/home) - a conference taking place in Bristol, UK, 26-27 July, 2027
 
 Image credit: Storebælt bridge [Wikimedia commons](https://commons.wikimedia.org/wiki/File:Great_belt_fixed_link_panorama.jpg)
 
