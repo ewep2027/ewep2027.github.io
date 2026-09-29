@@ -22,11 +22,15 @@ Symposia: The symposium organizer should submit
 **[Submission form here](https://forms.gle/9K4F93Fi5q2E7R8M6)**
 
 
-## Registration
+## Registration and fees
 
 Registration will open in March 2027.
 
 The conference fee will include three nights' accommodation at Sinatur Storebælt, Nyborg.
+
+We anticipate the full conference fee for faculty, including accommodation, will be around 6000 DKK (approximately 800 EUR).
+
+We plan to have a reduced rate for graduate students. More details to come.
 
 
 ## Information for presenters
